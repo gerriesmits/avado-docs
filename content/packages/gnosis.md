@@ -150,7 +150,7 @@ At this point, your validator should start making attestations automatically whe
 
 ## Shapella
 
-Similar to Ethereum, the Gnosis chain has also successfully undergone a [Shapella update](https://www.gnosis.io/blog/shapella-upgrade-activated). This update enables withdrawals for staked GNO. Reward payments are automatically and regularly sent to a designated **withdrawal address**. For these automatic withdrawals to function, your validators require a withdrawal credential that starts with `0x01`. You can easily verify this on the [Teku-Gnosis page](http://teku-gnosis.my.ava.do/) on your Avado. If the address is not yet set, the withdrawals column will display yellow `todo` tags.
+Similar to Ethereum, the Gnosis chain has also successfully undergone a [Shapella update](https://www.gnosis.io/blog/shapella-upgrade-activated). This update enables withdrawals for staked GNO. Reward payments are automatically and regularly sent to a designated **withdrawal address**. For these automatic withdrawals to function, your validators require a withdrawal credential that starts with `0x01`. You can easily verify this on the [Teku-Gnosis page](http://teku-gnosis.my.ava.do/ - not sure how to edit, but this link gives an error message) on your Avado. If the address is not yet set, the withdrawals column will display yellow `todo` tags.
 
 {{< figure
     src="../ethdo/dappstore.jpg"
@@ -195,7 +195,7 @@ Problem: `Connected Peers: 0`
 : Fix: Make sure port `30305` is open ([More info]({{< relref "/troubleshooting/manually-opening-ports#avado-ports" >}}))
 
 ## AVADO support channel
-Telegram: [AVADO - Gnosis Staking](https://t.me/AvadoXDAI)
+Discord: [AVADO - Gnosis Staking](https://discord.gg/hQUYNerwC3))
 
 
 ## Useful Links
